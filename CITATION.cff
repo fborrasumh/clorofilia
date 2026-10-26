@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "Si usas este software, cítalo con estos metadatos."
+title: "ClorofilIA"
+type: software
+authors:
+  - family-names: "Borrás Rocher"
+    given-names: "Fernando"
+    affiliation: "Universidad Miguel Hernández de Elche"
+    orcid: "https://orcid.org/0000-0002-5519-4573"
+  - family-names: "Jácome Sarchi"
+    given-names: "Guillermo Alexander"
+    affiliation: "Universidad Politécnica Estatal del Carchi"
+    orcid: "https://orcid.org/0009-0009-5311-2544"
+doi: "10.5281/zenodo.23676087"
+version: "1.0.0"
+date-released: "2026-10-26"
+url: "https://fborrasumh.github.io/clorofilia/"
+repository-code: "https://github.com/fborrasumh/clorofilia"
+license: MIT
